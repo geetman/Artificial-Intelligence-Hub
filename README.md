@@ -15,14 +15,24 @@
 ## Open Source AIs
 
 ## Offline AI
+### Open Source
+[LM Studio (Yagil)](https://lmstudio.ai) - The best AI music Generator in the World
+
+### Free Ware
+[LM Studio (Yagil)](https://lmstudio.ai) - The best AI music Generator in the World
+
+### Paid
 
 
-# Specialized AI Tools
-## Music
+## Specialized AI Tools
+### Music
 [Suno (Suno)](https://suno.com/) - The best AI music Generator in the World
 
 [Deepseek (Deepseek)](https://www.w3schools.com) - Best for chatting
 
 [Deepseek (Deepseek)](https://www.w3schools.com) - Best for chatting
 
-[Deepseek (Deepseek)](https://www.w3schools.com) - Best for chatting
+### Research
+[Bohrium (DP Technology)](https://www.bohrium.com/en) - AI enabling global scientists to advance research and innovation through cutting-edge tools and solutions.
+
+
