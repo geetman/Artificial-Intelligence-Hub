@@ -1,6 +1,6 @@
 # AI Chatbots
 ## Online Chatting
-[ChatGPT (OpenAI)](https://www.w3schools.com) - The most popular AI tool (not the best)
+[ChatGPT (OpenAI)](https://www.w3schools.com) - The most popular AI tool (but not the best)
 
 [Claude (Anthropic)](https://www.w3schools.com) - Best for coding & agentic AI
 
@@ -21,6 +21,8 @@
 ### Free Ware
 [LM Studio (Yagil)](https://lmstudio.ai) - The best AI music Generator in the World
 
+[Ollama (Ollama)](https://lmstudio.ai) - Ollama is the easiest way to automate your work using open models, while keeping your data safe
+
 ### Paid
 
 
@@ -33,6 +35,6 @@
 [Deepseek (Deepseek)](https://www.w3schools.com) - Best for chatting
 
 ### Research
-[Bohrium (DP Technology)](https://www.bohrium.com/en) - AI enabling global scientists to advance research and innovation through cutting-edge tools and solutions.
+[Bohrium (DP Technology)](https://www.bohrium.com/en) - AI enabling global scientists to advance research and innovation through cutting-edge tools and solutions
 
 
