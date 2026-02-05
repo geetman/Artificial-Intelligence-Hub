@@ -16,10 +16,16 @@
 
 ## Offline AI
 ### Open Source
-[LM Studio (Yagil)](https://lmstudio.ai) - The best AI music Generator in the World
+[GPT4All (Nomic)](https://www.nomic.ai/gpt4all) - Your Private and Local AI Chatbot
+
+[Jan.AI (Nomic)](https://www.jan.ai) - The best of open-source AI in an easy-to-use product
+
+[Open WebUI (Open WebUI)](https://openwebui.com) - Run AI on your own terms
+
+[AnythingLLM (Mintplex Labs)](https://anythingllm.com) - The all-in-one AI application
 
 ### Free Ware
-[LM Studio (Yagil)](https://lmstudio.ai) - The best AI music Generator in the World
+[LM Studio (Yagil)](https://lmstudio.ai) - Local AI, on Your Computer
 
 [Ollama (Ollama)](https://lmstudio.ai) - Ollama is the easiest way to automate your work using open models, while keeping your data safe
 
