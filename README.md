@@ -14,7 +14,8 @@
 
 ## Open Source AIs
 
-## Offline AI
+# Offline AI
+## Offline AI Chatbots
 ### Open Source
 [GPT4All (Nomic)](https://www.nomic.ai/gpt4all) - Your Private and Local AI Chatbot
 
@@ -24,16 +25,32 @@
 
 [AnythingLLM (Mintplex Labs)](https://anythingllm.com) - The all-in-one AI application
 
+[Alpaca (Stanford)](https://jeffser.com/alpaca/) - Chat With AI using ollama Framework [Linux Only]
+
+[LibreChat (Danny Avila)](https://www.librechat.ai) - Unify AI Power
+
+[Cherry Studio (Shanghai Qianhui Technology)](https://www.cherry-ai.com) - Your AI Productivity Studio
+
+[Pinokio (@cocktailpeanut)](https://pinokio.co) - The 1-Click Localhost Cloud
+
+[local.ai (Ettore Di Giacinto)](https://www.localai.app) - Local AI Management, Verification, & Inferencing
+
 ### Free Ware
 [LM Studio (Yagil)](https://lmstudio.ai) - Local AI, on Your Computer
 
 [Ollama (Ollama)](https://lmstudio.ai) - Ollama is the easiest way to automate your work using open models, while keeping your data safe
 
-### Paid
-
 
 ## Specialized AI Tools
-### Music
+### Music 
+> [!WARNING]
+> The Usage of AI to replace creative works is not condoned in any way or form. These AI tools are meant to help or benefit during the process of music creation and must not be used as a means to hit upload.
+>
+> 🟢**Correct Usage Example**🟢: If you were to make a song but needed drums or a bassline or something of that sort or even AI mastering, then you can use these AI tools for that purpose.
+> 
+> 🔴**Incorrect Usage Example**🔴: Generating music without any knowhow of music and uploading it without any majour changes
+> (And no, uploading lyrics does not constitute as musical creative direction. Perhaps lyrical but not musical in any way).
+
 [Suno (Suno)](https://suno.com/) - The best AI music Generator in the World
 
 [Deepseek (Deepseek)](https://www.w3schools.com) - Best for chatting
