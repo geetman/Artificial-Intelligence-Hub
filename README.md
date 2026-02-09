@@ -3,17 +3,25 @@
 
 # AI LLMs
 ## Online Chatting
-[ChatGPT (OpenAI)](https://www.w3schools.com) - The most popular AI tool (but not the best)
+[ChatGPT (OpenAI)](https://chat.openai.com/) - The most popular AI tool (but not the best)
 
-[Claude (Anthropic)](https://www.w3schools.com) - Best for coding & agentic AI
+[Claude (Anthropic)](https://claude.ai/new) - Best for coding & agentic AI
 
-[Grok (XAI)](https://www.w3schools.com) - Best for learning (Upto Highschool, dont use any type of AI in college (for learning, Homework, Assignments, or projects) it halucitates way to much)
+[Grok (XAI)](https://grok.com/) - Best for learning (Upto Highschool, dont use any type of AI in college (for learning, Homework, Assignments, or projects) it halucitates way to much)
 
-[Deepseek (Deepseek)](https://www.w3schools.com) - Best for chatting
+[Deepseek (Deepseek)](https://chat.deepseek.com/) - Best for chatting
 
-[Gemini (Google)](https://www.w3schools.com) - Best for multimodal tools
+[Gemini (Google)](https://gemini.google.com/app) - Best for multimodal tools
 
-[Deepseek (Deepseek)](https://www.w3schools.com) - Best for chatting
+[Perplexity (Perplexity)](https://www.perplexity.ai/) - Havent Tried
+
+[Qwen (Alibaba)](https://chat.qwen.ai/) - Very non corporate
+
+[Mistral (Mistral)](https://chat.mistral.ai/chat) - Web based agentic functions inbuilt in chatbot
+
+[Copilot (Microsoft)](https://copilot.microsoft.com/) - Good Assistant
+
+[Ernie (Baidu)](https://ernie.baidu.com/) - 还没试过
 
 ## Offline LLM
 ### Open Source
