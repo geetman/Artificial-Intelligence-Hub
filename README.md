@@ -85,3 +85,9 @@
 > 🔴**Incorrect Usage Example**🔴: Generating music without any knowhow of music and uploading it without any majour changes
 > (And no, uploading lyrics does not constitute as musical creative direction. Perhaps lyrical but not musical in any way).
 
+### 3D Generation 
+> [!WARNING]
+> 🟢**Correct Usage Example**🟢: If you were to make a song but needed drums or a bassline or something of that sort or even AI mastering, then you can use these AI tools for that purpose.
+> 
+> 🔴**Incorrect Usage Example**🔴: Generating music without any knowhow of music and uploading it without any majour changes
+> (And no, uploading lyrics does not constitute as musical creative direction. Perhaps lyrical but not musical in any way).
