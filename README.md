@@ -1,5 +1,8 @@
+Brought to you by The Nanometer Horizon Open Knowledge Program from Nanometer Horizon and Clandestine Lyceum Scientific Group
 # AI Search
 [There's An AI For That (Taaft)](https://theresanaiforthat.com) - Because there's an AI for that
+
+---
 
 # AI LLMs
 ## Online Chatting
@@ -51,6 +54,8 @@
 ## LLM Models
 [Hugging Face (Hugging Face)](https://huggingface.co) - The AI community building the future
 
+---
+
 # AI APIs
 ## LLM
 [Google Studio (Google)](https://aistudio.google.com/) - Gemini Based APIs
@@ -68,6 +73,8 @@
 [Open Router (Open Router)](https://openrouter.ai) - The Unified Interface For LLMs
 
 ## Everything Else
+
+---
 
 # Specialized AI Tools
 ## Technical AI
@@ -171,6 +178,8 @@
 [Parrot AI (Advisor360°)](https://www.tryparrotai.com) - Make a celebrity say anything
 
 [Stable Audio (Stability)](https://stability.ai/stable-audio) - For everywhere your sound shows up
+
+---
 
 # Misc Stuff
 [Websim (Websim)](https://websim.com) - What if "Scratch" was vibecoding?
