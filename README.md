@@ -10,19 +10,21 @@ Brought to you by The Nanometer Horizon Open Knowledge Program from Nanometer Ho
 
 [Claude (Anthropic)](https://claude.ai/new) - Best for coding & agentic AI
 
-[Grok (XAI)](https://grok.com/) - Best for learning (Upto Highschool, dont use any type of AI in college (for learning, Homework, Assignments, or projects) it halucitates way to much)
+[Grok (XAI)](https://grok.com/) - Best for learning (Only ment for asking "what is X" or "what is meant by Y". Keep in mind that grok should only be used to grab info from the internet in a digestable way, rather than using it for literally anything else.)
+
+[Kimi (Moonlight AI)](https://www.kimi.com/) - Best for design and agent swarming
 
 [Deepseek (Deepseek)](https://chat.deepseek.com/) - Best for chatting
 
-[Gemini (Google)](https://gemini.google.com/app) - Best for multimodal tools
+[Gemini (Google)](https://gemini.google.com/app) - Best for multimodal tools or for explainations
 
-[Perplexity (Perplexity)](https://www.perplexity.ai/) - Havent Tried
+[Perplexity (Perplexity)](https://www.perplexity.ai/) - Great at thinking and legal obligation
 
-[Qwen (Alibaba)](https://chat.qwen.ai/) - Very non corporate
+[Qwen (Alibaba)](https://chat.qwen.ai/) - Non American Bias
 
 [Mistral (Mistral)](https://chat.mistral.ai/chat) - Web based agentic functions inbuilt in chatbot
 
-[Copilot (Microsoft)](https://copilot.microsoft.com/) - Good Assistant
+[Copilot (Microsoft)](https://copilot.microsoft.com/) - Bad, genuinly it sucks. Would not recommend. Use Cursor, Blackbox or Claude instead
 
 [Ernie (Baidu)](https://ernie.baidu.com/) - 还没试过
 
