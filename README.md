@@ -1,6 +1,17 @@
 Brought to you by The Nanometer Horizon Open Knowledge Program from Nanometer Horizon and Clandestine Lyceum Scientific Group
-# AI Search
+# AI General
+## Search
 [There's An AI For That (Taaft)](https://theresanaiforthat.com) - Because there's an AI for that
+
+## Community
+[Kaggle (Kaggle)](https://www.kaggle.com) - The World's AI Proving Ground
+
+## Learn AI
+[DeepLearn (DeepLearn.ai)](https://www.deeplearning.ai/courses/) - AI Courses and Specializations
+
+[Intuitive AI (ByCloud)](https://www.intuitiveai.academy) - Understanding frontier LLMs can be easy
+
+[AI Timeline (ByCloud)]([https://www.intuitiveai.academy](https://mail.bycloud.ai)) - Follow The Latest Cutting Edge AI Research in 5 minutes a week
 
 ---
 
@@ -56,6 +67,8 @@ Brought to you by The Nanometer Horizon Open Knowledge Program from Nanometer Ho
 ## LLM Models
 [Hugging Face (Hugging Face)](https://huggingface.co) - The AI community building the future
 
+[Modelscope (Modelscope)](https://www.modelscope.cn/models) - Fast-forwarding AI development with open-source community from china
+
 ---
 
 # AI APIs
@@ -106,7 +119,7 @@ Brought to you by The Nanometer Horizon Open Knowledge Program from Nanometer Ho
 
 [Napkin (Napkin)](https://www.napkin.ai) - Turns your text into visuals
 
-## Non-Technical AI (Creative)
+## "Creative" AI
 > [!WARNING]
 > The Usage of AI to replace creative works is not condoned in any way or form. These AI tools are meant to help or benefit **CREATORS** during the process of music creation and must not be used as a means to hit upload.
 
@@ -121,6 +134,12 @@ Brought to you by The Nanometer Horizon Open Knowledge Program from Nanometer Ho
 [ToolBaz (ToolBaz)](https://toolbaz.com) - Free AI Writer Tools
 
 [Merlin (Foyer Tech Inc)](https://www.getmerlin.in) - Text is a chat away
+
+### Designing
+> [!WARNING]
+> Although the same usage issues isnt really applied to designing, you will 100% have a generic half baked product. It is recommended to learn design yourself or atlest a bit, because the design outputs are usually horrible when it comes to AI generated designs. Perhaps you may find it faster, but due to the lack of originality any design you make with said AI tools WILL be put aside. You will find your turnovers and your market rates to increase from the usage of human made and creative designs over AI generated designs.
+
+[Stitch (Google)](https://stitch.withgoogle.com) - Design Fast
 
 ### Music 
 > [!WARNING]
