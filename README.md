@@ -93,6 +93,12 @@ Brought to you by The Nanometer Horizon Open Knowledge Program from Nanometer Ho
 
 ---
 
+# Data For AI
+## General
+[Wikidata](https://www.wikidata.org) - Free structured knowledge base used for knowledge graphs, entity linking, and AI training data
+
+---
+
 # Specialized AI Tools
 ## Technical AI
 > [!WARNING]
