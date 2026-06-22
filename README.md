@@ -13,6 +13,8 @@ Brought to you by The Nanometer Horizon Open Knowledge Program from Nanometer Ho
 
 [AI Timeline (ByCloud)]([https://www.intuitiveai.academy](https://mail.bycloud.ai)) - Follow The Latest Cutting Edge AI Research in 5 minutes a week
 
+[Fast.ai (Fast.AI)](https://www.fast.ai) - Making neural nets uncool again
+
 ---
 
 # AI LLMs
