@@ -15,6 +15,8 @@ Brought to you by The Nanometer Horizon Open Knowledge Program from Nanometer Ho
 
 [Fast.ai (Fast.AI)](https://www.fast.ai) - Making neural nets uncool again
 
+[Introduction to Generative AI Workshop (Skill Surf)](https://skillsurf.github.io/introduction_genAI/intro.html) - NanoGPT, Image generation, and self trained custom models
+
 ---
 
 # AI LLMs
